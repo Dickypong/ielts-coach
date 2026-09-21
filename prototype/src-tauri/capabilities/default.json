@@ -1,0 +1,13 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "enables the default permissions",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "allow-get-app-version",
+    "allow-get-app-name",
+    "allow-import-minimax-key-from-openclaw",
+    "allow-transcribe-audio"
+  ]
+}

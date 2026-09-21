@@ -1,0 +1,19 @@
+[[permission]]
+identifier = "allow-get-app-version"
+description = "读取应用版本"
+commands.allow = ["get_app_version"]
+
+[[permission]]
+identifier = "allow-get-app-name"
+description = "读取应用名称"
+commands.allow = ["get_app_name"]
+
+[[permission]]
+identifier = "allow-import-minimax-key-from-openclaw"
+description = "从本机 OpenClaw 导入 MiniMax API Key"
+commands.allow = ["import_minimax_key_from_openclaw"]
+
+[[permission]]
+identifier = "allow-transcribe-audio"
+description = "使用 macOS 原生语音识别转写口语录音"
+commands.allow = ["transcribe_audio"]

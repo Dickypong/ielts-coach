@@ -1,0 +1,14 @@
+node_modules/
+dist/
+dist-minimax-asr/
+.DS_Store
+*.log
+.env
+.env.*
+data/raw/*.json
+data/db/*.db
+__pycache__/
+*.pyc
+.venv/
+prototype/src-tauri/target/
+*.dmg

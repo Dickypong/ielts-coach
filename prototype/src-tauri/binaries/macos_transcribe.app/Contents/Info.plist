@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleExecutable</key>
+  <string>macos_transcribe</string>
+  <key>CFBundleIdentifier</key>
+  <string>com.ieltscoach.macos-transcribe</string>
+  <key>CFBundleName</key>
+  <string>macos_transcribe</string>
+  <key>CFBundlePackageType</key>
+  <string>APPL</string>
+  <key>CFBundleVersion</key>
+  <string>0.1.0</string>
+  <key>LSMinimumSystemVersion</key>
+  <string>11.0</string>
+  <key>NSSpeechRecognitionUsageDescription</key>
+  <string>Transcribe IELTS speaking recordings to English text for AI scoring.</string>
+  <key>NSMicrophoneUsageDescription</key>
+  <string>Used for IELTS speaking practice recording.</string>
+</dict>
+</plist>
