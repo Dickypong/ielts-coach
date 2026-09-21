@@ -116,5 +116,5 @@ python scripts/import_essays.py && python scripts/transform_to_ts.py
 
 ## 📞 维护者
 
-- 踹爸（彭伟雄）：需求提出 & 测试
+- 踹爸：需求提出 & 测试
 - 踹宝（本项目 agent）：需求文档 & 原型 & 爬虫脚本
